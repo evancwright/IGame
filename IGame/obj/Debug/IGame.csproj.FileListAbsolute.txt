@@ -1,0 +1,4 @@
+c:\users\evan\documents\visual studio 2013\Projects\IGame\IGame\bin\Debug\IGame.dll
+c:\users\evan\documents\visual studio 2013\Projects\IGame\IGame\bin\Debug\IGame.pdb
+c:\users\evan\documents\visual studio 2013\Projects\IGame\IGame\obj\Debug\IGame.dll
+c:\users\evan\documents\visual studio 2013\Projects\IGame\IGame\obj\Debug\IGame.pdb
